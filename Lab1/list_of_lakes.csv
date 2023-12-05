@@ -1,0 +1,37 @@
+name,country,region,depth_meters,depth_feet,depth_area_ratio
+Baikal, Russia,Siberia,1642.0,5387.0,
+Tanganyika," Tanzania, Democratic Republic of the Congo, Burundi, Zambia",East Africa,1470.0,4823.0,8100000.0
+Caspian sea," Iran, Russia, Turkmenistan, Kazakhstan, Azerbaijan",,1025.0,3363.0,1680000.0
+Vostok, Antarctica,,1000.0,3300.0,8940000.0
+O'Higgins-San Martín," Chile, Argentina","Aysén (Chile), Santa Cruz (Argentina)",836.0,2742.0,263000.0
+Malawi/Nyasa/Niassa," Mozambique, Malawi, Tanzania",,706.0,2316.0,4100000.0
+Issyk Kul, Kyrgyzstan,,668.0,2192.0,8460000.0
+Great Slave, Canada,Northwest Territories,614.0,2015.0,3720000.0
+Crater, United States,Oregon,594.0,1949.0,
+Matano, Indonesia,South Sulawesi,590.0,1936.0,
+General Carrera-Buenos Aires," Chile,  Argentina",,586.0,1923.0,136000.0
+Hornindalsvatnet, Norway,Vestland,514.0,1686.0,720000.0
+Quesnel, Canada,British Columbia,511.0,1677.0,313000.0
+Toba, Indonesia,Sumatra,505.0,1657.0,150000.0
+Sarez, Tajikistan,,505.0,1657.0,566000.0
+Tahoe, United States,"California, Nevada",501.0,1645.0,226000.0
+Argentino, Argentina,Santa Cruz (Patagonia),500.0,1640.0,133000.0
+Kivu," Democratic Republic of the Congo,  Rwanda",,480.0,1575.0,9240000.0
+Salsvatnet, Norway,Trøndelag,464.0,1523.0,693000.0
+Nahuel Huapi, Argentina,"Rio Negro, Patagonia",464.0,1523.0,202000.0
+Hauroko, New Zealand,Southland (South Island),462.0,1516.0,582000.0
+Cochrane / Pueyrredón," Chile,  Argentina","Aysén (Chile), Santa Cruz (Argentina)",460.0,1509.0,255000.0
+Lake Tinn, Norway,Vestfold og Telemark,460.0,1509.0,641000.0
+Adams, Canada,British Columbia,457.0,1499.0,390000.0
+Chelan, United States,Washington (state),453.0,1486.0,390000.0
+Van, Turkey,,451.0,1480.0,7360000.0
+Poso, Indonesia,Sulawesi,450.0,1476.0,250000.0
+Fagnano," Argentina,  Chile",Tierra del Fuego,449.0,1473.0,177000.0
+Great Bear, Canada,Northwest Territories,446.0,1463.0,2530000.0
+Manapouri, New Zealand,Southland (South Island),444.0,1457.0,373000.0
+Mjøsa, Norway,"Hedmark, Oppland and Viken",443.5,1455.0,233000.0
+Como, Italy,Lombardy,425.0,1394.0,352000.0
+Te Anau, New Zealand,Southland (South Island),425.0,1390.0,229000.0
+Tazawa, Japan,Akita Prefecture,423.0,1387.0,831000.0
+Wakatipu, New Zealand,South Island,420.0,1378.0,247000.00000000003
+Superior, Canada,"Ontario, Michigan, Minnesota, Wisconsin",406.0,1332.0,1420000.0
